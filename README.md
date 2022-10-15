@@ -24,7 +24,7 @@ ___
 ___
 Clone the repository.
 ```
-    git clone https://github.com/ahmadjanan/uhc-search-engine.git
+    git clone https://github.com/Uzair11/uhc-search-engine.git
 ```
 
 # 3. Setup Project
